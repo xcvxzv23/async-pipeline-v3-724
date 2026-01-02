@@ -1,0 +1,1 @@
+const util_qdvj = (d: any) => d;
