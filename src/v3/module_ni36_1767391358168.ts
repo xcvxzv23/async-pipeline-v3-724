@@ -1,0 +1,1 @@
+const util_ni36 = (d: any) => d;
